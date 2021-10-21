@@ -1,0 +1,10 @@
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\bin\Debug\Lottoprogram.exe.config
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\bin\Debug\Lottoprogram.exe
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\bin\Debug\Lottoprogram.pdb
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.csprojAssemblyReference.cache
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.Lotto.resources
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.Properties.Resources.resources
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.csproj.GenerateResource.cache
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.exe
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.pdb
+C:\Users\M.Hayzz\source\repos\Laboration1\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.csproj.CoreCompileInputs.cache
