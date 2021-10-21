@@ -8,7 +8,8 @@ This project is about developing a calculator with a graphical interface, which 
 - An entered line should only accept unique positive numbers between 1-35.
   - In the lottery line, the position of numbers does not matter.
   - No duplicates may be present among the numbers.
-
+- Number of draws must be an integer, not a negative number.
+- You should not be able to start a draw unless both a correct line is filled in and the number of draws is correct
 
 ## Lottery Simulator
 The project is about creating a simulator for lottery draws, which the program presents how many "wins" there will be that have 5, 6 resp. 7 right after x number (user enters x) draws.
