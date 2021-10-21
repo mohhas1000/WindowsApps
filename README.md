@@ -6,8 +6,8 @@ This project is about developing a calculator with a graphical interface, which 
 
 ### Requirements specification
 • An entered line should only accept unique positive numbers between 1-35.\
-        -> In the lottery line, the position of numbers does not matter.\
-        -> No duplicates may be present among the numbers.\
+  -> In the lottery line, the position of numbers does not matter.\
+  -> No duplicates may be present among the numbers.\
 
 
 ## Lottery Simulator
